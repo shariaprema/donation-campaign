@@ -1,0 +1,123 @@
+[
+    {
+      "picture": "https://i.ibb.co/0CkrpkZ/Rectangle-4284.png",
+      "title": "Education Fund",
+      "category": "Education",
+      "category_bg": "#3498db",
+      "card_bg": "#ecf0f1",
+      "text_button_bg": "#2ecc71",
+      "description": "Support education for underprivileged children.",
+      "price": 20
+    },
+    {
+      "picture": "https://i.ibb.co/G3Stnsz/Rectangle-4287-1.png",
+      "title": "Medical Relief",
+      "category": "Healthcare",
+      "category_bg": "#e74c3c",
+      "card_bg": "#f2dede",
+      "text_button_bg": "#c0392b",
+      "description": "Provide medical aid to those in need.",
+      "price": 30
+    },
+    {
+      "picture": "https://i.ibb.co/k50cMBk/Rectangle-4287.png",
+      "title": "Food Drive",
+      "category": "Food & Hunger",
+      "category_bg": "#f39c12",
+      "card_bg": "#fcf3cf",
+      "text_button_bg": "#d4ac0d",
+      "description": "Help fight hunger in your community.",
+      "price": 15
+    },
+    {
+      "picture": "https://i.ibb.co/ccHgQHr/Rectangle-4287-2.png",
+      "title": "Animal Welfare",
+      "category": "Animal Rights",
+      "category_bg": "#9b59b6",
+      "card_bg": "#e6e2e9",
+      "text_button_bg": "#8e44ad",
+      "description": "Support the welfare of animals in shelters.",
+      "price": 25
+    },
+    {
+      "picture": "https://i.ibb.co/ccHgQHr/Rectangle-4287-2.png",
+      "title": "Environmental Conservation",
+      "category": "Environment",
+      "category_bg": "#3498db",
+      "card_bg": "#ecf0f1",
+      "text_button_bg": "#2ecc71",
+      "description": "Contribute to protecting the environment.",
+      "price": 10
+    },
+    {
+      "picture": "https://i.ibb.co/k50cMBk/Rectangle-4287.png",
+      "title": "Disaster Relief",
+      "category": "Emergency Response",
+      "category_bg": "#e74c3c",
+      "card_bg": "#f2dede",
+      "text_button_bg": "#c0392b",
+      "description": "Support disaster-affected communities.",
+      "price": 40
+    },
+    {
+      "picture": "https://i.ibb.co/G3Stnsz/Rectangle-4287-1.png",
+      "title": "Women's Empowerment",
+      "category": "Gender Equality",
+      "category_bg": "#f39c12",
+      "card_bg": "#fcf3cf",
+      "text_button_bg": "#d4ac0d",
+      "description": "Empower women and promote gender equality.",
+      "price": 20
+    },
+    {
+      "picture": "https://i.ibb.co/0CkrpkZ/Rectangle-4284.png",
+      "title": "Arts & Culture",
+      "category": "Arts",
+      "category_bg": "#9b59b6",
+      "card_bg": "#e6e2e9",
+      "text_button_bg": "#8e44ad",
+      "description": "Support the arts and cultural initiatives.",
+      "price": 15
+    },
+    {
+      "picture": "https://i.ibb.co/0CkrpkZ/Rectangle-4284.png",
+      "title": "Elderly Care",
+      "category": "Aging Population",
+      "category_bg": "#3498db",
+      "card_bg": "#ecf0f1",
+      "text_button_bg": "#2ecc71",
+      "description": "Provide care and companionship for the elderly.",
+      "price": 20
+    },
+    {
+      "picture": "https://i.ibb.co/G3Stnsz/Rectangle-4287-1.png",
+      "title": "Community Development",
+      "category": "Community",
+      "category_bg": "#e74c3c",
+      "card_bg": "#f2dede",
+      "text_button_bg": "#c0392b",
+      "description": "Support community development projects.",
+      "price": 30
+    },
+    {
+      "picture": "https://i.ibb.co/k50cMBk/Rectangle-4287.png",
+      "title": "Human Rights",
+      "category": "Civil Rights",
+      "category_bg": "#f39c12",
+      "card_bg": "#fcf3cf",
+      "text_button_bg": "#d4ac0d",
+      "description": "Protect and advocate for human rights.",
+      "price": 25
+    },
+    {
+      "picture": "https://i.ibb.co/ccHgQHr/Rectangle-4287-2.png",
+      "title": "Crisis Intervention",
+      "category": "Mental Health",
+      "category_bg": "#9b59b6",
+      "card_bg": "#e6e2e9",
+      "text_button_bg": "#8e44ad",
+      "description": "Provide support for individuals in crisis.",
+      "price": 35
+  }
+]
+  
