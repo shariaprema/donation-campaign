@@ -1,123 +1,123 @@
 [
     {
       "picture": "https://i.ibb.co/0CkrpkZ/Rectangle-4284.png",
-      "title": "Education Fund",
+      "title": "Clean water for children",
+      "category": "Health",
+      "category_bg": "#0052ff33",
+      "card_bg": "#0052ff26",
+      "text_button_bg": "#0052FF",
+      "description": "Support better health and well-being through our Health Donation initiative. Your contribution will make a significant impact on individuals facing health challenges. Whether it's providing medical supplies, funding treatments, or offering access to healthcare services, your donation can save lives and improve the quality of life for those in need. Join us in promoting good health and healing, ensuring that everyone has the opportunity to lead a healthier and happier life. Together, we can make a positive change in the world of health and wellness.",
+      "price": 220
+    },
+    {
+      "picture": "https://i.ibb.co/G3Stnsz/Rectangle-4287-1.png",
+      "title": "Good education",
       "category": "Education",
-      "category_bg": "#3498db",
-      "card_bg": "#ecf0f1",
-      "text_button_bg": "#2ecc71",
-      "description": "Support education for underprivileged children.",
-      "price": 20
-    },
-    {
-      "picture": "https://i.ibb.co/G3Stnsz/Rectangle-4287-1.png",
-      "title": "Medical Relief",
-      "category": "Healthcare",
-      "category_bg": "#e74c3c",
-      "card_bg": "#f2dede",
-      "text_button_bg": "#c0392b",
-      "description": "Provide medical aid to those in need.",
-      "price": 30
+      "category_bg": "#f8714733",
+      "card_bg": "#f8714726",
+      "text_button_bg": "#F87147",
+      "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+      "price": 130
     },
     {
       "picture": "https://i.ibb.co/k50cMBk/Rectangle-4287.png",
-      "title": "Food Drive",
-      "category": "Food & Hunger",
-      "category_bg": "#f39c12",
-      "card_bg": "#fcf3cf",
-      "text_button_bg": "#d4ac0d",
-      "description": "Help fight hunger in your community.",
-      "price": 15
+      "title": "Used Clothing Drive",
+      "category": "Clothing",
+      "category_bg": "#79c23f33",
+      "card_bg": "#79c23f26",
+      "text_button_bg": "#79C23F",
+      "description":"Give the gift of warmth and dignity by contributing to our Clothing Donation drive. Your gently used or new clothing items can provide comfort to individuals in need, especially during challenging seasons. Your donation will help clothe those who may not have adequate attire, making a positive impact on their lives. Join us in promoting kindness and ensuring that everyone has access to clean and suitable clothing. Together, we can make a difference, one garment at a time.",
+      "price": 155
     },
     {
       "picture": "https://i.ibb.co/ccHgQHr/Rectangle-4287-2.png",
-      "title": "Animal Welfare",
-      "category": "Animal Rights",
-      "category_bg": "#9b59b6",
-      "card_bg": "#e6e2e9",
-      "text_button_bg": "#8e44ad",
-      "description": "Support the welfare of animals in shelters.",
-      "price": 25
+      "title": "Better Food for Everyone",
+      "category": "Food",
+      "category_bg": "#f8714733",
+      "card_bg": "#f8714726",
+      "text_button_bg": "#F87147",
+      "description": "Join our Food Drive initiative to make a meaningful impact on the lives of those facing hunger in our community. Hunger is a pressing issue that affects countless individuals and families. With your generous support, we can provide nutritious meals and essential food supplies to those in need. Your contribution will help alleviate hunger, ensuring that no one goes to bed hungry. Whether it's a warm meal for a child, a bag of groceries for a struggling family, or a lifeline for the elderly, your donation will make a significant difference. Together, we can create a world where everyone has access to the basic necessity of food, nourishing both bodies and spirits.",
+      "price": 125
     },
     {
       "picture": "https://i.ibb.co/ccHgQHr/Rectangle-4287-2.png",
-      "title": "Environmental Conservation",
-      "category": "Environment",
-      "category_bg": "#3498db",
-      "card_bg": "#ecf0f1",
-      "text_button_bg": "#2ecc71",
-      "description": "Contribute to protecting the environment.",
-      "price": 10
+      "title": "Better Food for Everyone",
+      "category": "Food",
+      "category_bg": "#f8714733",
+      "card_bg": "#f8714726",
+      "text_button_bg": "#F87147",
+      "description": "Join our Food Drive initiative to make a meaningful impact on the lives of those facing hunger in our community. Hunger is a pressing issue that affects countless individuals and families. With your generous support, we can provide nutritious meals and essential food supplies to those in need. Your contribution will help alleviate hunger, ensuring that no one goes to bed hungry. Whether it's a warm meal for a child, a bag of groceries for a struggling family, or a lifeline for the elderly, your donation will make a significant difference. Together, we can create a world where everyone has access to the basic necessity of food, nourishing both bodies and spirits.",
+      "price": 310
     },
     {
       "picture": "https://i.ibb.co/k50cMBk/Rectangle-4287.png",
-      "title": "Disaster Relief",
-      "category": "Emergency Response",
-      "category_bg": "#e74c3c",
-      "card_bg": "#f2dede",
-      "text_button_bg": "#c0392b",
-      "description": "Support disaster-affected communities.",
-      "price": 40
+      "title": "Used Clothing Drive",
+      "category": "Clothing",
+      "category_bg": "#79c23f33",
+      "card_bg": "#79c23f26",
+      "text_button_bg": "#79C23F",
+      "description":"Give the gift of warmth and dignity by contributing to our Clothing Donation drive. Your gently used or new clothing items can provide comfort to individuals in need, especially during challenging seasons. Your donation will help clothe those who may not have adequate attire, making a positive impact on their lives. Join us in promoting kindness and ensuring that everyone has access to clean and suitable clothing. Together, we can make a difference, one garment at a time.",
+      "price": 240
     },
     {
       "picture": "https://i.ibb.co/G3Stnsz/Rectangle-4287-1.png",
-      "title": "Women's Empowerment",
-      "category": "Gender Equality",
-      "category_bg": "#f39c12",
-      "card_bg": "#fcf3cf",
-      "text_button_bg": "#d4ac0d",
-      "description": "Empower women and promote gender equality.",
-      "price": 20
+      "title": "Good education",
+      "category": "Education",
+      "category_bg": "#f8714733",
+      "card_bg": "#f8714726",
+      "text_button_bg": "#F87147",
+      "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+      "price": 120
     },
     {
       "picture": "https://i.ibb.co/0CkrpkZ/Rectangle-4284.png",
-      "title": "Arts & Culture",
-      "category": "Arts",
-      "category_bg": "#9b59b6",
-      "card_bg": "#e6e2e9",
-      "text_button_bg": "#8e44ad",
-      "description": "Support the arts and cultural initiatives.",
-      "price": 15
+      "title": "Clean water for children",
+      "category": "Health",
+      "category_bg": "#0052ff33",
+      "card_bg": "#0052ff26",
+      "text_button_bg": "#0052FF",
+      "description": "Support better health and well-being through our Health Donation initiative. Your contribution will make a significant impact on individuals facing health challenges. Whether it's providing medical supplies, funding treatments, or offering access to healthcare services, your donation can save lives and improve the quality of life for those in need. Join us in promoting good health and healing, ensuring that everyone has the opportunity to lead a healthier and happier life. Together, we can make a positive change in the world of health and wellness.",
+      "price": 215
     },
     {
       "picture": "https://i.ibb.co/0CkrpkZ/Rectangle-4284.png",
-      "title": "Elderly Care",
-      "category": "Aging Population",
-      "category_bg": "#3498db",
-      "card_bg": "#ecf0f1",
-      "text_button_bg": "#2ecc71",
-      "description": "Provide care and companionship for the elderly.",
-      "price": 20
+      "title": "Clean water for children",
+      "category": "Health",
+      "category_bg": "#0052ff33",
+      "card_bg": "#0052ff26",
+      "text_button_bg": "#0052FF",
+      "description": "Support better health and well-being through our Health Donation initiative. Your contribution will make a significant impact on individuals facing health challenges. Whether it's providing medical supplies, funding treatments, or offering access to healthcare services, your donation can save lives and improve the quality of life for those in need. Join us in promoting good health and healing, ensuring that everyone has the opportunity to lead a healthier and happier life. Together, we can make a positive change in the world of health and wellness.",
+      "price": 120
     },
     {
       "picture": "https://i.ibb.co/G3Stnsz/Rectangle-4287-1.png",
-      "title": "Community Development",
-      "category": "Community",
-      "category_bg": "#e74c3c",
-      "card_bg": "#f2dede",
-      "text_button_bg": "#c0392b",
-      "description": "Support community development projects.",
-      "price": 30
+      "title": "Good education",
+      "category": "Education",
+      "category_bg": "#f8714733",
+      "card_bg": "#f8714726",
+      "text_button_bg": "#F87147",
+      "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+      "price": 300
     },
     {
       "picture": "https://i.ibb.co/k50cMBk/Rectangle-4287.png",
-      "title": "Human Rights",
-      "category": "Civil Rights",
-      "category_bg": "#f39c12",
-      "card_bg": "#fcf3cf",
-      "text_button_bg": "#d4ac0d",
-      "description": "Protect and advocate for human rights.",
-      "price": 25
+      "title": "Used Clothing Drive",
+      "category": "Clothing",
+      "category_bg": "#79c23f33",
+      "card_bg": "#79c23f26",
+      "text_button_bg": "#79C23F",
+      "description":"Give the gift of warmth and dignity by contributing to our Clothing Donation drive. Your gently used or new clothing items can provide comfort to individuals in need, especially during challenging seasons. Your donation will help clothe those who may not have adequate attire, making a positive impact on their lives. Join us in promoting kindness and ensuring that everyone has access to clean and suitable clothing. Together, we can make a difference, one garment at a time.",
+      "price": 125
     },
     {
       "picture": "https://i.ibb.co/ccHgQHr/Rectangle-4287-2.png",
-      "title": "Crisis Intervention",
-      "category": "Mental Health",
-      "category_bg": "#9b59b6",
-      "card_bg": "#e6e2e9",
-      "text_button_bg": "#8e44ad",
-      "description": "Provide support for individuals in crisis.",
-      "price": 35
+      "title": "Better Food for Everyone",
+      "category": "Food",
+      "category_bg": "#f8714733",
+      "card_bg": "#f8714726",
+      "text_button_bg": "#F87147",
+      "description": "Join our Food Drive initiative to make a meaningful impact on the lives of those facing hunger in our community. Hunger is a pressing issue that affects countless individuals and families. With your generous support, we can provide nutritious meals and essential food supplies to those in need. Your contribution will help alleviate hunger, ensuring that no one goes to bed hungry. Whether it's a warm meal for a child, a bag of groceries for a struggling family, or a lifeline for the elderly, your donation will make a significant difference. Together, we can create a world where everyone has access to the basic necessity of food, nourishing both bodies and spirits.",
+      "price": 235
   }
 ]
   
