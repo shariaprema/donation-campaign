@@ -1,13 +1,13 @@
 import { Link } from "react-router-dom";
 
-const DonationCard = ({donation}) => {
+const DonationsCard = ({donation}) => {
 
     const{id, picture, title, category, category_bg, card_bg, text_button_bg, description, price} = donation || {};
     
     return (
         <div>
 
-            <div>
+            <div>   
                 <Link to={`/donations/${id}`}>
                 <div style={{backgroundColor:card_bg}} className="w-[312px] h-[283px] relative flex flex-col rounded-xl bg-white bg-clip-border text-gray-700 shadow-md">
                 <div className="relative  overflow-hidden  rounded-t-xl  bg-white bg-clip-border text-gray-700">
@@ -37,4 +37,4 @@ const DonationCard = ({donation}) => {
     );
 };
 
-export default DonationCard;
+export default DonationsCard;

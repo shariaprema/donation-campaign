@@ -4,7 +4,6 @@ import Banner from "../../Components/Header/Banner/Banner";
 
 const Home = () => {
     const donations = useLoaderData();
-    console.log(donations);
     
     return (
         
