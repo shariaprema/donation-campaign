@@ -9,12 +9,10 @@ import { PieChart, Pie, Sector, Cell, ResponsiveContainer,Tooltip } from 'rechar
 const Statistics = () => {
     const donation = useLoaderData();
     const totalDonation = donation.length;
-    console.log(totalDonation);
 
     
-    const donationItems = JSON.parse(localStorage.getItem("donations"))
+    const donationItems = JSON.parse(localStorage.getItem("donations")? localStorage.getItem("donations"): "" )
     const yourDonation = donationItems.length;
-    console.log(yourDonation);
 
 
 const data = [

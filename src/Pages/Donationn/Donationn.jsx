@@ -12,7 +12,6 @@ const[isShow, setIsShow] = useState(false);
 useEffect(()=>{
 
     const donationItems = JSON.parse(localStorage.getItem("donations"))
-    console.log(donationItems);
 
     if(donationItems){
       setDonations(donationItems);
