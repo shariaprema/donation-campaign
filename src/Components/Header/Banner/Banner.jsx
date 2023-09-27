@@ -11,7 +11,7 @@ const Banner = () => {
              <div className= "mx-auto   py-2 px-4  lg:px-8 lg:py-4">
     
     
-            <div className="relative p-6 pt-32 pb-14 px-6">
+            <div className="relative  pt-32 pb-14 px-6">
                 <h2 className="mb-6 block text-[#0B0B0B] text-4xl font-bold">
                 I Grow By Helping People In Need
                 </h2>

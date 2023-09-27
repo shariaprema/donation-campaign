@@ -7,8 +7,12 @@ const[donations, setDonations] = useState([]);
 const[noFound, setNoFound] = useState(false);
 const[isShow, setIsShow] = useState(false);
 
+
+
 useEffect(()=>{
+
     const donationItems = JSON.parse(localStorage.getItem("donations"))
+    console.log(donationItems);
 
     if(donationItems){
       setDonations(donationItems);
@@ -25,11 +29,11 @@ const handleRemove = () =>{
     setDonations([])
     setNoFound('No donation found');
 }
-
-
+     
 
     return (
         <div>
+
            {
             noFound ? <p className="h[80vh] flex justify-center items-center">{noFound}</p> 
             
@@ -41,7 +45,7 @@ const handleRemove = () =>{
                <h2 className=" text-white  bg-[#009444] rounded-md py-2 px-4 text-base font-semibold">Delete All Donations</h2>
                 </button>}
 
-                <div className="grid grid-cols-2 gap-10 pt-8">
+                <div className="grid lg:grid-cols-2 gap-10 pt-8">
 
                    {
                    isShow ? donations.map(donation=><DonationCardDesign key={donation.id} donation={donation}></DonationCardDesign>)
