@@ -4,7 +4,8 @@ const Banner = () => {
         <div>
             <div className="relative h-96 w-full  grid flex-col items-end justify-center overflow-hidden  bg-white bg-clip-border text-center text-gray-700">
                 
-                <div className="absolute inset-0 m-0  rounded-none bg-transparent bg-[url('../../../public/resources/cover-img.png')] h[750px] w-[1260] bg-cover bg-clip-border bg-center text-white-700 shadow-none">
+                <div>
+                     <img className="absolute inset-0 m-0  rounded-none bg-transparent h[750px] w-[1260] bg-cover bg-clip-border bg-center text-white-700 shadow-none" src="../../../../public/resources/cover-img.png" alt="cover-pic" />
                      <div className="to-bg-black-10 absolute inset-0  lg:h-full lg:w-full bg-white opacity-90 "></div>
                 </div>
     
